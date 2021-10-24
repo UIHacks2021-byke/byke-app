@@ -55,7 +55,7 @@ const DestinationSearch = props => {
           }}
           fetchDetails
           query={{
-            key: 'AIzaSyBS9yWokPZgZA9hWDsUB3l8RkLVlbIjrA4',
+            key: 'xxx',
             language: 'en',
           }}
           renderRow={data => <PlaceRow data={data} />}
@@ -79,7 +79,7 @@ const DestinationSearch = props => {
           }}
           fetchDetails
           query={{
-            key: 'AIzaSyBS9yWokPZgZA9hWDsUB3l8RkLVlbIjrA4',
+            key: 'xxx',
             language: 'en',
           }}
           renderRow={data => <PlaceRow data={data} />}

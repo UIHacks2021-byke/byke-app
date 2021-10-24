@@ -9,7 +9,7 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBS9yWokPZgZA9hWDsUB3l8RkLVlbIjrA4"/>
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="xxx"/>
     <!-- You will also only need to add this uses-library tag -->
     <uses-library android:name="org.apache.http.legacy" android:required="false"/>
 
